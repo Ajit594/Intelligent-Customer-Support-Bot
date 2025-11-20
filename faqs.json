@@ -1,0 +1,50 @@
+[
+  {
+    "id": 1,
+    "question": "What is your return policy?",
+    "answer": "You can return any product within 30 days of delivery as long as it is unused and in original packaging. Refunds are processed within 5-7 business days after we receive the item.",
+    "category": "returns"
+  },
+  {
+    "id": 2,
+    "question": "How can I track my order?",
+    "answer": "Once your order is shipped, we send a tracking link to your registered email and phone number. You can click on that link to see real-time tracking updates.",
+    "category": "orders"
+  },
+  {
+    "id": 3,
+    "question": "Do you offer free shipping?",
+    "answer": "Yes, we offer free standard shipping on all prepaid orders above ₹999. For COD and lower-value orders, a small shipping fee is applied at checkout.",
+    "category": "shipping"
+  },
+  {
+    "id": 4,
+    "question": "How can I contact customer support?",
+    "answer": "You can reach our support team via email at support@example.com or call us at +91-9876543210 between 9 AM and 7 PM IST on all working days.",
+    "category": "support"
+  },
+  {
+    "id": 5,
+    "question": "Can I cancel my order?",
+    "answer": "You can cancel your order before it is shipped. Go to 'My Orders' in your account and click on 'Cancel Order'. Once shipped, cancellation is not possible but you may request a return.",
+    "category": "orders"
+  },
+  {
+    "id": 6,
+    "question": "What payment methods do you accept?",
+    "answer": "We accept credit/debit cards, UPI, net banking, and cash on delivery (COD) for eligible pin codes.",
+    "category": "payments"
+  },
+  {
+    "id": 7,
+    "question": "My payment failed, what should I do?",
+    "answer": "If your payment failed but money was deducted, it is usually reversed by your bank within 3-5 business days. If not, please contact support with your transaction ID.",
+    "category": "payments"
+  },
+  {
+    "id": 8,
+    "question": "Do you ship internationally?",
+    "answer": "Currently we only ship within India. International shipping is not available yet.",
+    "category": "shipping"
+  }
+]
