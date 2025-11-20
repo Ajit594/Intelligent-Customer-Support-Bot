@@ -14,7 +14,7 @@ AI-powered FAQ assistant using TF-IDF + Cosine Similarity with optional LLM refi
 
 1. Clone
 ```bash
-git clone https://github.com/your-username/intelligent-support-bot.git
+git clone https://github.com/Ajit594/Intelligent-Customer-Support-Bot.git
 cd intelligent-support-bot
 ```
 
